@@ -39,3 +39,14 @@ input:hover{
     padding: 5px;
     font-size: 22px;
 }
+#clear{
+    width: 200px;
+    padding: 5px;
+    font-size: 22px;
+}
+#clearr{
+    width: 200px;
+    padding: 5px;
+    font-size: 22px;
+    text-align: right;
+}
